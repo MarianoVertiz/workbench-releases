@@ -21,6 +21,17 @@ Workbench carries two public keys, current and next. It reads the manifest and i
 from this repository's release, and checks its size and SHA-256 against the manifest. A manifest whose signature
 fails is ignored, and nothing installs until the user clicks Restart to update.
 
+## Release keys
+
+The Ed25519 public keys that Workbench carries, each the raw 32-byte key in base64. A manifest is genuine when its
+`.sig` verifies over the manifest file's exact bytes under one of them. This list changes in the same step as each
+key replacement.
+
+| Slot | Public key |
+| --- | --- |
+| current | `HY8MtS2QTQhY4Nym222GKtapUpylQkNiEb2RzPQXSS4=` |
+| next | `iceGs/Gpy3P3fNwd0U7EPaOCK9Dl/5ZswWMCZMAO3mo=` |
+
 ## Support and security reports
 
 Write to the support address on the Workbench support page. Issues are off in this repository; please do not post
