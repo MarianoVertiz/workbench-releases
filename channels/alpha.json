@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "2.7.0",
-  "file": "Workbench-Setup-2.7.0.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v2.7.0/Workbench-Setup-2.7.0.exe",
-  "size": 182836960,
-  "sha256": "86f0df5f779f5c8942ff72effdcda416fa684db1bf1207df20abd3b13368f00b",
-  "notes": "The alpha foundation: updates over the alpha channel, an update backup before every install, the repair page and the support file.",
-  "published_at": "2026-11-09T02:36:23Z"
+  "version": "2.7.1",
+  "file": "Workbench-Setup-2.7.1.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v2.7.1/Workbench-Setup-2.7.1.exe",
+  "size": 184463824,
+  "sha256": "c18102f4b6e318a02d23812c85f351cf5b6d43252b649a5da11cb6949af58b82",
+  "notes": "First patch: the fixes from the 2.7.0 runs, a paired device's expiry and Unpair this device, and four desktop layouts.",
+  "published_at": "2026-11-09T05:05:39Z"
 }
