@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "2.7.1",
-  "file": "Workbench-Setup-2.7.1.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v2.7.1/Workbench-Setup-2.7.1.exe",
-  "size": 184463824,
-  "sha256": "c18102f4b6e318a02d23812c85f351cf5b6d43252b649a5da11cb6949af58b82",
-  "notes": "First patch: the fixes from the 2.7.0 runs, a paired device's expiry and Unpair this device, and four desktop layouts.",
-  "published_at": "2026-11-09T05:05:39Z"
+  "version": "2.7.2",
+  "file": "Workbench-Setup-2.7.2.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v2.7.2/Workbench-Setup-2.7.2.exe",
+  "size": 192426888,
+  "sha256": "5688b2faa1a874b93a4d71aed2dc89dd5a70ed5ef4e28f56bd97b9cfbcf601e6",
+  "notes": "Workbench 2.7.2: feedback notes, and the updater reads version labels.",
+  "published_at": "2026-11-10T16:59:48Z"
 }
