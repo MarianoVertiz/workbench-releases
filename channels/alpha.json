@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "2.7.2",
-  "file": "Workbench-Setup-2.7.2.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v2.7.2/Workbench-Setup-2.7.2.exe",
-  "size": 192426888,
-  "sha256": "5688b2faa1a874b93a4d71aed2dc89dd5a70ed5ef4e28f56bd97b9cfbcf601e6",
-  "notes": "Workbench 2.7.2: feedback notes, and the updater reads version labels.",
-  "published_at": "2026-11-10T16:59:48Z"
+  "version": "3.0.0-alpha.1",
+  "file": "Workbench-Setup-3.0.0-alpha.1.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.0-alpha.1/Workbench-Setup-3.0.0-alpha.1.exe",
+  "size": 192975672,
+  "sha256": "12cc4a44353e1424822ad375c34ed3b4c4a7aa56eefe84775bdeba63aee09da6",
+  "notes": "3.0.0-alpha.1, the first labelled version: copies start from the folder's commit, Merge is in the sidebar's row menu, clearer session states, no paid-continuation confirmation, new work stops at 98% of a usage window.",
+  "published_at": "2026-11-11T14:53:20Z"
 }
