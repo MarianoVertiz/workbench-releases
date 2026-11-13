@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.0-alpha.4",
-  "file": "Workbench-Setup-3.0.0-alpha.4.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.0-alpha.4/Workbench-Setup-3.0.0-alpha.4.exe",
-  "size": 118786656,
-  "sha256": "8873b248c950520d12cbc076876ddaac11f42ae700d4f4b43118bdbff3c58b12",
-  "notes": "3.0.0-alpha.4, the new interface: choose New in Settings, Interface, to name your main bot, plan with it, and see documents as pages with their record; Visuals and dashboards; works on a paired phone. Today's stays the default.",
-  "published_at": "2026-11-13T17:20:21Z"
+  "version": "3.0.5-alpha",
+  "file": "Workbench-Setup-3.0.5-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.5-alpha/Workbench-Setup-3.0.5-alpha.exe",
+  "size": 118792856,
+  "sha256": "e01ff3b2a30b53c3264e891ee211d9d149486c0cea12917906185701dc177617",
+  "notes": "3.0.5-alpha: the new interface after its first use. Meters in the title bar, Library, Orchestration and Feedback in the roster, a panel beside the bot on Home, a session's tools as a stacked sheet, marks on tool calls, and walls around generated pages.",
+  "published_at": "2026-11-13T20:08:56Z"
 }
