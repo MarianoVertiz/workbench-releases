@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.0-alpha.3",
-  "file": "Workbench-Setup-3.0.0-alpha.3.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.0-alpha.3/Workbench-Setup-3.0.0-alpha.3.exe",
-  "size": 118666432,
-  "sha256": "3b575829bbec10f58ac94777987312f3401a1a06b1980ee847df6deb8871200d",
-  "notes": "3.0.0-alpha.3, today's interface refreshed: a new frame and cooler whites, Ask Workbench (Ctrl J), split view as one row with Details per pane, and the layer builder; Workbench ships no layer and no agent.",
-  "published_at": "2026-11-13T14:13:47Z"
+  "version": "3.0.0-alpha.4",
+  "file": "Workbench-Setup-3.0.0-alpha.4.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.0-alpha.4/Workbench-Setup-3.0.0-alpha.4.exe",
+  "size": 118786656,
+  "sha256": "8873b248c950520d12cbc076876ddaac11f42ae700d4f4b43118bdbff3c58b12",
+  "notes": "3.0.0-alpha.4, the new interface: choose New in Settings, Interface, to name your main bot, plan with it, and see documents as pages with their record; Visuals and dashboards; works on a paired phone. Today's stays the default.",
+  "published_at": "2026-11-13T17:20:21Z"
 }
