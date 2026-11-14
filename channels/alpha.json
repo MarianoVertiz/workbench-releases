@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.6-alpha",
-  "file": "Workbench-Setup-3.0.6-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.6-alpha/Workbench-Setup-3.0.6-alpha.exe",
-  "size": 118801096,
-  "sha256": "a078a1281b92bb5d3539a556d26cccad95cf8539105166012e349b89640a2f04",
-  "notes": "3.0.6-alpha: the first Mac build beside Windows, clearer first-run setup, Feedback's address and mail button, and the bot's composer without starting points.",
-  "published_at": "2026-11-14T02:03:27Z"
+  "version": "3.0.7-alpha",
+  "file": "Workbench-Setup-3.0.7-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.7-alpha/Workbench-Setup-3.0.7-alpha.exe",
+  "size": 118801592,
+  "sha256": "92d59fe617dc49150347dc0eb6b96d776081c04d74fb7cc834e1e6fa3a07e775",
+  "notes": "Set the main bot's permissions in Settings (Auto by default); a new loading mark; safer bot notes.",
+  "published_at": "2026-11-14T07:09:20Z"
 }
