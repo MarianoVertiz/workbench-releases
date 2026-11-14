@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.5-alpha",
-  "file": "Workbench-Setup-3.0.5-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.5-alpha/Workbench-Setup-3.0.5-alpha.exe",
-  "size": 118792856,
-  "sha256": "e01ff3b2a30b53c3264e891ee211d9d149486c0cea12917906185701dc177617",
-  "notes": "3.0.5-alpha: the new interface after its first use. Meters in the title bar, Library, Orchestration and Feedback in the roster, a panel beside the bot on Home, a session's tools as a stacked sheet, marks on tool calls, and walls around generated pages.",
-  "published_at": "2026-11-13T20:08:56Z"
+  "version": "3.0.6-alpha",
+  "file": "Workbench-Setup-3.0.6-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.6-alpha/Workbench-Setup-3.0.6-alpha.exe",
+  "size": 118801096,
+  "sha256": "a078a1281b92bb5d3539a556d26cccad95cf8539105166012e349b89640a2f04",
+  "notes": "3.0.6-alpha: the first Mac build beside Windows, clearer first-run setup, Feedback's address and mail button, and the bot's composer without starting points.",
+  "published_at": "2026-11-14T02:03:27Z"
 }
