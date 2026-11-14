@@ -1,0 +1,10 @@
+{
+  "channel": "alpha-mac",
+  "version": "3.0.6-alpha",
+  "file": "Workbench-3.0.6-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.6-alpha-mac/Workbench-3.0.6-alpha-arm64.zip",
+  "size": 133477327,
+  "sha256": "bf3c4f0d28f6a3faf3f3120aa5b024bc5c286337daab29e461dc0c8afe4e4a81",
+  "notes": "3.0.6-alpha: the first Mac build beside Windows, clearer first-run setup, Feedback's address and mail button, and the bot's composer without starting points.",
+  "published_at": "2026-11-14T03:23:25Z"
+}
