@@ -5,9 +5,11 @@ Workbench's source is private.
 
 ## Getting started
 
-Workbench is a desktop app for Windows 11 that runs Claude Code and Codex sessions on your own subscriptions. You need
-a Claude plan (Pro or Max), a ChatGPT plan, or both. Setting it up takes about 20 minutes, most of it installing
-the tools Workbench uses.
+Workbench is a desktop app for Windows 11 and Apple Silicon Macs that runs Claude Code and Codex sessions on your own
+subscriptions. You need a Claude plan (Pro or Max), a ChatGPT plan, or both. Setting it up takes about 20 minutes,
+most of it installing the tools Workbench uses.
+
+The steps below are for Windows. On a Mac, follow [On a Mac](#on-a-mac) instead.
 
 ### 1. Download the installer
 
@@ -77,15 +79,41 @@ workspace folder (`Workbench` in your user folder). Delete those too if you want
 
 If something goes wrong, tell the person who sent you this page.
 
+### On a Mac
+
+Workbench runs on Macs with Apple Silicon (M1 or later). The Mac app is not notarized by Apple yet, so macOS asks
+once before it opens.
+
+1. Open [Releases](https://github.com/MarianoVertiz/workbench-releases/releases) and find the newest release whose
+   name ends in **for Mac**. Under **Assets**, click `Workbench-<version>-arm64.dmg` (about 127 MB).
+2. Open the dmg, drag **Workbench** onto **Applications**, then eject the disk image.
+3. Open Workbench from Applications. macOS says "Workbench" Not Opened. Press **Done**, the grey button. Do not
+   press **Move to Trash** or Return.
+4. Open **System Settings**, then **Privacy & Security**. Scroll down to Security, where it says Workbench was
+   blocked, and press **Open Anyway**. Type your Mac's password when asked.
+5. Open Workbench again and press **Open**. Later starts open with no question.
+
+Always run Workbench from Applications, not from the disk image or Downloads. Otherwise Restart to update cannot
+replace it.
+
+The setup page then works as on Windows (steps 3 to 5 above), with two differences. Each card that says
+**Not found** shows a macOS command: paste it into Terminal (Applications, Utilities) instead of PowerShell. Sign in
+opens a Terminal window; sign in there, answer yes to trust the folder, and close the window.
+
+To uninstall, drag Workbench from Applications to the Trash. Your settings stay in
+`~/Library/Application Support/Workbench`.
+
 ## What is here
 
-- **Installers.** Each version is a GitHub release tagged `v<version>` whose one asset is
-  `Workbench-Setup-<version>.exe`. Releases are immutable: once published, an installer is never changed or
-  replaced, and its tag never moves. A bad release is followed by a higher version, never replaced.
+- **Installers.** Each Windows version is a GitHub release tagged `v<version>` whose one asset is
+  `Workbench-Setup-<version>.exe`. Each Mac version is a release tagged `v<version>-mac` with
+  `Workbench-<version>-arm64.zip`, which the Mac app updates from, and `Workbench-<version>-arm64.dmg`, for the
+  first install. Releases are immutable: once published, an installer is never changed or replaced, and its tag
+  never moves. A bad release is followed by a higher version, never replaced.
 - **Release manifests.** `channels/<channel>.json` names a channel's newest version, its installer's address, size
   and SHA-256. `channels/<channel>.json.sig` is the Ed25519 signature over the manifest file's exact bytes, in
   base64. `.gitattributes` marks `channels/*` as binary so git never changes those bytes.
-- **Channels.** `alpha` is the channel Workbench follows. `proof` is a test channel that the app reads only when it
+- **Channels.** `alpha` is the channel Workbench follows on Windows, and `alpha-mac` the one it follows on a Mac. `proof` is a test channel that the app reads only when it
   is started with `--update-channel=proof`.
 
 ## How Workbench checks an update
