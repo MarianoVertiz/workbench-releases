@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.7-alpha",
-  "file": "Workbench-3.0.7-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.7-alpha-mac/Workbench-3.0.7-alpha-arm64.zip",
-  "size": 133478703,
-  "sha256": "e29e2a419975a23a32b76d212b420d280681b1aff3439675ca577fcdc70a6d1d",
-  "notes": "Set the main bot's permissions in Settings (Auto by default); a new loading mark; safer bot notes.",
-  "published_at": "2026-11-14T18:32:11Z"
+  "version": "3.0.8-alpha",
+  "file": "Workbench-3.0.8-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.8-alpha-mac/Workbench-3.0.8-alpha-arm64.zip",
+  "size": 133705342,
+  "sha256": "62636acd05e505a4aac5f2f18046d5497d2b987fff984ac394a45d9efbc8686f",
+  "notes": "L1's Linear look on the new interface; the main bot keeps its tools after a restart, has every tool a session has, and starts sessions itself only with the switch Start sessions without a card on.",
+  "published_at": "2026-11-16T04:17:17Z"
 }
