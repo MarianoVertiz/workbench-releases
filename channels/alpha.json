@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.8-alpha",
-  "file": "Workbench-Setup-3.0.8-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.8-alpha/Workbench-Setup-3.0.8-alpha.exe",
-  "size": 119024448,
-  "sha256": "0098040b71dcedb6939a32cf13796db574a9470993948b09cec247cf787d23cf",
-  "notes": "L1's Linear look on the new interface; the main bot keeps its tools after a restart, has every tool a session has, and starts sessions itself only with the switch Start sessions without a card on.",
-  "published_at": "2026-11-16T03:50:14Z"
+  "version": "3.0.9-alpha",
+  "file": "Workbench-Setup-3.0.9-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.9-alpha/Workbench-Setup-3.0.9-alpha.exe",
+  "size": 118919928,
+  "sha256": "ecc878d120bf28899ba3d816489877b29e5cec2027ffa13265895b1fd1bcd8b8",
+  "notes": "The redesign: one interface on Linear's look, with today's interface removed. The Inbox is split from the bot's thread, and a project has a page. New screens for split view, pages and Library, Orchestration and Settings.",
+  "published_at": "2026-11-16T20:20:34Z"
 }
