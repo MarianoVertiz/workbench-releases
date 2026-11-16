@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.7-alpha",
-  "file": "Workbench-Setup-3.0.7-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.7-alpha/Workbench-Setup-3.0.7-alpha.exe",
-  "size": 118801592,
-  "sha256": "92d59fe617dc49150347dc0eb6b96d776081c04d74fb7cc834e1e6fa3a07e775",
-  "notes": "Set the main bot's permissions in Settings (Auto by default); a new loading mark; safer bot notes.",
-  "published_at": "2026-11-14T07:09:20Z"
+  "version": "3.0.8-alpha",
+  "file": "Workbench-Setup-3.0.8-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.8-alpha/Workbench-Setup-3.0.8-alpha.exe",
+  "size": 119024448,
+  "sha256": "0098040b71dcedb6939a32cf13796db574a9470993948b09cec247cf787d23cf",
+  "notes": "L1's Linear look on the new interface; the main bot keeps its tools after a restart, has every tool a session has, and starts sessions itself only with the switch Start sessions without a card on.",
+  "published_at": "2026-11-16T03:50:14Z"
 }
