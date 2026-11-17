@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.9-alpha",
-  "file": "Workbench-Setup-3.0.9-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.9-alpha/Workbench-Setup-3.0.9-alpha.exe",
-  "size": 118919928,
-  "sha256": "ecc878d120bf28899ba3d816489877b29e5cec2027ffa13265895b1fd1bcd8b8",
-  "notes": "The redesign: one interface on Linear's look, with today's interface removed. The Inbox is split from the bot's thread, and a project has a page. New screens for split view, pages and Library, Orchestration and Settings.",
-  "published_at": "2026-11-16T20:20:34Z"
+  "version": "3.0.10-alpha",
+  "file": "Workbench-Setup-3.0.10-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.10-alpha/Workbench-Setup-3.0.10-alpha.exe",
+  "size": 118928952,
+  "sha256": "678c7a5adb0f5746b774f4080b27a3cc7fa053d4102330c6654e0e16194d332a",
+  "notes": "A patch for writing and Merge: a plain folder's copy reads its changes with a .venv inside it, a failed read says why with Try again, and a session writes in its copy, never in the project's folder.",
+  "published_at": "2026-11-17T03:27:51Z"
 }
