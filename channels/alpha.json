@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.11-alpha",
-  "file": "Workbench-Setup-3.0.11-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.11-alpha/Workbench-Setup-3.0.11-alpha.exe",
-  "size": 129085104,
-  "sha256": "cf4e3c00f2f3368f5bcc4cb77584e5d1254a1ce2bf49245238f9e39c305ceef6",
-  "notes": "The fix round: work in a plain folder itself, a working line while a session works, split view as a grid, documents under their session, Electron 45 and security updates, and fixes from a code review.",
-  "published_at": "2026-11-18T03:57:40Z"
+  "version": "3.0.12-alpha",
+  "file": "Workbench-Setup-3.0.12-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.12-alpha/Workbench-Setup-3.0.12-alpha.exe",
+  "size": 129087176,
+  "sha256": "cc0ded82e90f5e6b470090bf8910e254cbfa4c06de386b73926fa9f4f4f083b3",
+  "notes": "3.0.12-alpha: split view drops land, the top bar drags, the sidebar is tidier and resizes",
+  "published_at": "2026-11-18T07:39:08Z"
 }
