@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.10-alpha",
-  "file": "Workbench-Setup-3.0.10-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.10-alpha/Workbench-Setup-3.0.10-alpha.exe",
-  "size": 118928952,
-  "sha256": "678c7a5adb0f5746b774f4080b27a3cc7fa053d4102330c6654e0e16194d332a",
-  "notes": "A patch for writing and Merge: a plain folder's copy reads its changes with a .venv inside it, a failed read says why with Try again, and a session writes in its copy, never in the project's folder.",
-  "published_at": "2026-11-17T03:27:51Z"
+  "version": "3.0.11-alpha",
+  "file": "Workbench-Setup-3.0.11-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.11-alpha/Workbench-Setup-3.0.11-alpha.exe",
+  "size": 129085104,
+  "sha256": "cf4e3c00f2f3368f5bcc4cb77584e5d1254a1ce2bf49245238f9e39c305ceef6",
+  "notes": "The fix round: work in a plain folder itself, a working line while a session works, split view as a grid, documents under their session, Electron 45 and security updates, and fixes from a code review.",
+  "published_at": "2026-11-18T03:57:40Z"
 }
