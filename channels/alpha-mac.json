@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.11-alpha",
-  "file": "Workbench-3.0.11-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.11-alpha-mac/Workbench-3.0.11-alpha-arm64.zip",
-  "size": 122937262,
-  "sha256": "615e340717a5839d2fc81deb66ad73858bf47a74967dd1a24af01fc01d309e28",
-  "notes": "The fix round: work in a plain folder itself, a working line while a session works, split view as a grid, documents under their session, Electron 45 and security updates, and fixes from a code review.",
-  "published_at": "2026-11-18T04:11:12Z"
+  "version": "3.0.12-alpha",
+  "file": "Workbench-3.0.12-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.12-alpha-mac/Workbench-3.0.12-alpha-arm64.zip",
+  "size": 122939557,
+  "sha256": "7961462c0fa6998698fdfc9b63a8d7ea9a2964604eb230daaed7d05203d513fc",
+  "notes": "3.0.12-alpha: split view drops land, the top bar drags, the sidebar is tidier and resizes",
+  "published_at": "2026-11-18T08:11:39Z"
 }
