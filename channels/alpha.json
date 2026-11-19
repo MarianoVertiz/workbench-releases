@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.12-alpha",
-  "file": "Workbench-Setup-3.0.12-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.12-alpha/Workbench-Setup-3.0.12-alpha.exe",
-  "size": 129087176,
-  "sha256": "cc0ded82e90f5e6b470090bf8910e254cbfa4c06de386b73926fa9f4f4f083b3",
-  "notes": "3.0.12-alpha: split view drops land, the top bar drags, the sidebar is tidier and resizes",
-  "published_at": "2026-11-18T07:39:08Z"
+  "version": "3.0.13-alpha",
+  "file": "Workbench-Setup-3.0.13-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.13-alpha/Workbench-Setup-3.0.13-alpha.exe",
+  "size": 129133344,
+  "sha256": "165eb3a8728feca5f0fe870beeb9def001f661ced2ba6ea6d1f7dfa3b6f8b8ca",
+  "notes": "3.0.13-alpha: delegation that survives a lost answer, a restart and a cancel; skills in the composer; CLI updates; the first run inside the app; import from Claude Code and Codex; pins in the sidebar.",
+  "published_at": "2026-11-19T18:58:44Z"
 }
