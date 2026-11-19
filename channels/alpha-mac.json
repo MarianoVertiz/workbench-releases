@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.12-alpha",
-  "file": "Workbench-3.0.12-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.12-alpha-mac/Workbench-3.0.12-alpha-arm64.zip",
-  "size": 122939557,
-  "sha256": "7961462c0fa6998698fdfc9b63a8d7ea9a2964604eb230daaed7d05203d513fc",
-  "notes": "3.0.12-alpha: split view drops land, the top bar drags, the sidebar is tidier and resizes",
-  "published_at": "2026-11-18T08:11:39Z"
+  "version": "3.0.13-alpha",
+  "file": "Workbench-3.0.13-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.13-alpha-mac/Workbench-3.0.13-alpha-arm64.zip",
+  "size": 122996027,
+  "sha256": "9840bd5e2f28d4c33f0a6868ae82b2b727d4f3b4d56858cc4895248be9536437",
+  "notes": "3.0.13-alpha: delegation that survives a lost answer, a restart and a cancel; skills in the composer; CLI updates; the first run inside the app; import from Claude Code and Codex; pins in the sidebar.",
+  "published_at": "2026-11-19T22:42:10Z"
 }
