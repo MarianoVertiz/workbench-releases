@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.14-alpha",
-  "file": "Workbench-3.0.14-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.14-alpha-mac/Workbench-3.0.14-alpha-arm64.zip",
-  "size": 122997098,
-  "sha256": "e55e0bf61efcc9e501f904390a3c9588b01a6671ee2e6d0628aa31953f57439e",
-  "notes": "3.0.14-alpha: a Workbench skill switched off for Codex leaves its / menu; one Create Workbot button in the first run; a removed session stays out of the import picker; the hidden history leaves out what a Git folder ignores.",
-  "published_at": "2026-11-20T00:09:45Z"
+  "version": "3.0.15-alpha",
+  "file": "Workbench-3.0.15-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.15-alpha-mac/Workbench-3.0.15-alpha-arm64.zip",
+  "size": 123014840,
+  "sha256": "db56aee19832d3a0967b3c3b339f8ffaebf551ec64c6e42b06253a9c1b652774",
+  "notes": "3.0.15-alpha: Full access reaches anywhere your account can, after one warning; in Auto and Ask me first a path outside the folders asks on a card; one Library list for skills and workflows; check and plain answers for agents.",
+  "published_at": "2026-11-20T19:45:12Z"
 }
