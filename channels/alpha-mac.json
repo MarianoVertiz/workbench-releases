@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.13-alpha",
-  "file": "Workbench-3.0.13-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.13-alpha-mac/Workbench-3.0.13-alpha-arm64.zip",
-  "size": 122996027,
-  "sha256": "9840bd5e2f28d4c33f0a6868ae82b2b727d4f3b4d56858cc4895248be9536437",
-  "notes": "3.0.13-alpha: delegation that survives a lost answer, a restart and a cancel; skills in the composer; CLI updates; the first run inside the app; import from Claude Code and Codex; pins in the sidebar.",
-  "published_at": "2026-11-19T22:42:10Z"
+  "version": "3.0.14-alpha",
+  "file": "Workbench-3.0.14-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.14-alpha-mac/Workbench-3.0.14-alpha-arm64.zip",
+  "size": 122997098,
+  "sha256": "e55e0bf61efcc9e501f904390a3c9588b01a6671ee2e6d0628aa31953f57439e",
+  "notes": "3.0.14-alpha: a Workbench skill switched off for Codex leaves its / menu; one Create Workbot button in the first run; a removed session stays out of the import picker; the hidden history leaves out what a Git folder ignores.",
+  "published_at": "2026-11-20T00:09:45Z"
 }
