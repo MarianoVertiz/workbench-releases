@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.13-alpha",
-  "file": "Workbench-Setup-3.0.13-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.13-alpha/Workbench-Setup-3.0.13-alpha.exe",
-  "size": 129133344,
-  "sha256": "165eb3a8728feca5f0fe870beeb9def001f661ced2ba6ea6d1f7dfa3b6f8b8ca",
-  "notes": "3.0.13-alpha: delegation that survives a lost answer, a restart and a cancel; skills in the composer; CLI updates; the first run inside the app; import from Claude Code and Codex; pins in the sidebar.",
-  "published_at": "2026-11-19T18:58:44Z"
+  "version": "3.0.14-alpha",
+  "file": "Workbench-Setup-3.0.14-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.14-alpha/Workbench-Setup-3.0.14-alpha.exe",
+  "size": 129134560,
+  "sha256": "80b55850b0ad987d16e0c6fb98e1d7a0bc2f84d7699337e36f5ef29c93366543",
+  "notes": "3.0.14-alpha: a Workbench skill switched off for Codex leaves its / menu; one Create Workbot button in the first run; a removed session stays out of the import picker; the hidden history leaves out what a Git folder ignores.",
+  "published_at": "2026-11-20T00:09:03Z"
 }
