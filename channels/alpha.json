@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.15-alpha",
-  "file": "Workbench-Setup-3.0.15-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.15-alpha/Workbench-Setup-3.0.15-alpha.exe",
-  "size": 129150736,
-  "sha256": "ff66f0e51c6a066b128e9bdf83941a95f044928068fb9e0c0641bca3895cbd27",
-  "notes": "3.0.15-alpha: Full access reaches anywhere your account can, after one warning; in Auto and Ask me first a path outside the folders asks on a card; one Library list for skills and workflows; check and plain answers for agents.",
-  "published_at": "2026-11-20T19:38:55Z"
+  "version": "3.0.16-alpha",
+  "file": "Workbench-Setup-3.0.16-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.16-alpha/Workbench-Setup-3.0.16-alpha.exe",
+  "size": 129119888,
+  "sha256": "d499801f5ae1f6b028db9770b14aefe4bccdbaf5f878d16367202b46575943d9",
+  "notes": "Workbench ships no skills of its own now and moves old copies aside, Gemini asks real questions and names outside paths, question cards can ask for more context, and review findings wait for your verdicts.",
+  "published_at": "2026-11-23T18:14:14Z"
 }
