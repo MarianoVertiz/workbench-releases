@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.17-alpha",
-  "file": "Workbench-Setup-3.0.17-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.17-alpha/Workbench-Setup-3.0.17-alpha.exe",
-  "size": 129151992,
-  "sha256": "7e8cd523284e26a3e4180e48958209d995058a61cc5894e622ff0ef6885a8cf5",
-  "notes": "Sessions land their own work with Git, and the window is redesigned",
-  "published_at": "2026-11-25T00:01:52Z"
+  "version": "3.0.18-alpha",
+  "file": "Workbench-Setup-3.0.18-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.18-alpha/Workbench-Setup-3.0.18-alpha.exe",
+  "size": 129193768,
+  "sha256": "d3d1cef51631dece3b24c84acb90ea9d9e15c9440d6fda13b78dfaf531a5252f",
+  "notes": "Workbench keeps its disk use under a limit you set, with a Storage page in Settings, and starts faster",
+  "published_at": "2026-11-26T00:54:15Z"
 }
