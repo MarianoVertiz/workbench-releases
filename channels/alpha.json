@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.19-alpha",
-  "file": "Workbench-Setup-3.0.19-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.19-alpha/Workbench-Setup-3.0.19-alpha.exe",
-  "size": 129221000,
-  "sha256": "6c7c19553fd26205282dbad2023348d0943ae3c92c6dc8d8d91747cf19080359",
-  "notes": "New sessions and phone access ask before they act, permission cards speak plainly, and the build carries its notices and terms.",
-  "published_at": "2026-11-27T04:40:59Z"
+  "version": "3.0.20-alpha",
+  "file": "Workbench-Setup-3.0.20-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.20-alpha/Workbench-Setup-3.0.20-alpha.exe",
+  "size": 128558824,
+  "sha256": "170aa784309311d1567734f62a42b57019ce445afbdbf561486175e026bef2f9",
+  "notes": "One file viewer opens every file, and the Library holds the files you or a session marked.",
+  "published_at": "2026-11-27T20:30:38Z"
 }
