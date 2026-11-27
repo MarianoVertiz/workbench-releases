@@ -1,10 +1,10 @@
 {
   "channel": "alpha-mac",
-  "version": "3.0.15-alpha",
-  "file": "Workbench-3.0.15-alpha-arm64.zip",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.15-alpha-mac/Workbench-3.0.15-alpha-arm64.zip",
-  "size": 123014840,
-  "sha256": "db56aee19832d3a0967b3c3b339f8ffaebf551ec64c6e42b06253a9c1b652774",
-  "notes": "3.0.15-alpha: Full access reaches anywhere your account can, after one warning; in Auto and Ask me first a path outside the folders asks on a card; one Library list for skills and workflows; check and plain answers for agents.",
-  "published_at": "2026-11-20T19:45:12Z"
+  "version": "3.0.19-alpha",
+  "file": "Workbench-3.0.19-alpha-arm64.zip",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.19-alpha-mac/Workbench-3.0.19-alpha-arm64.zip",
+  "size": 123109053,
+  "sha256": "4ec6eec3dd94c4340054655fd3595a79e463c364f4e5982f83ec7afe1a018e1d",
+  "notes": "New sessions and phone access ask before they act, permission cards speak plainly, and the build carries its notices and terms.",
+  "published_at": "2026-11-27T04:52:07Z"
 }
