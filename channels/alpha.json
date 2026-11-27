@@ -1,10 +1,10 @@
 {
   "channel": "alpha",
-  "version": "3.0.18-alpha",
-  "file": "Workbench-Setup-3.0.18-alpha.exe",
-  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.18-alpha/Workbench-Setup-3.0.18-alpha.exe",
-  "size": 129193768,
-  "sha256": "d3d1cef51631dece3b24c84acb90ea9d9e15c9440d6fda13b78dfaf531a5252f",
-  "notes": "Workbench keeps its disk use under a limit you set, with a Storage page in Settings, and starts faster",
-  "published_at": "2026-11-26T00:54:15Z"
+  "version": "3.0.19-alpha",
+  "file": "Workbench-Setup-3.0.19-alpha.exe",
+  "url": "https://github.com/MarianoVertiz/workbench-releases/releases/download/v3.0.19-alpha/Workbench-Setup-3.0.19-alpha.exe",
+  "size": 129221000,
+  "sha256": "6c7c19553fd26205282dbad2023348d0943ae3c92c6dc8d8d91747cf19080359",
+  "notes": "New sessions and phone access ask before they act, permission cards speak plainly, and the build carries its notices and terms.",
+  "published_at": "2026-11-27T04:40:59Z"
 }
